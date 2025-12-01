@@ -18,7 +18,8 @@ Dr. Denise Bossy is an associate professor of history at the University of North
 
 
 # French Settlers and the Mocama
-.ve-iframe style=height:500px src= https://jaxhistory-my.sharepoint.com/:x:/r/personal/digitalcollections_jaxhistory_org/_layouts/15/Doc.aspx?sourcedoc=%7B318494E7-F9AB-4397-8935-360011373F51%7D&file=Fort%20Caroline%20Timeline.xlsx&action=default&mobileredirect=true width=100%25&height=650 allowtransparency= frameborder=0 loading=eager
+.ve-iframe style=height:500px src= https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2:2PACX-1vRj7_WSC6SxEhPD53OLTw02YMMS8pMUg2D2RK39WkB0kgOOy-EgYed52aS3cKfuQFMyOdW1wL5zdYMv width=100%25&height=650 allowtransparency= frameborder=0 loading=eager
+
 
 
 # The Origins of the Theodor de Bry Images
