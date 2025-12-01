@@ -2,12 +2,12 @@
 
 # Introducing the Speakers
 ## Dr. Keith Ashley
-.ve-media gh:JHCDigital/Debunking-DeBry-Speaker-Series/Screenshot%202025-12-01%20104849.png left width=70% caption=Dr. Keith Ashley
+.ve-media gh:JHCDigital/Debunking-DeBry-Speaker-Series/Screenshot%202025-12-01%20104849.png left width=70% caption=Dr. Ashley
 
 Dr. Keith Ashley is an archeologist and professor of anthropology at the University of North Florida. He recieved his B.A. from Auburn University and Ph.D. from the University of Florida. His work involves working with local communities, academic research and student engagement. He has over 20 years of experience in the field, conducting excavations and research throughout the southeastern United States. He co-edited a book with Nancy Marie White about the local Indigenous history titled *Late Prehistoric Florida: Archaeology at the Edge of the Mississippian World*.[^1] Currently, Dr. Ashley has focused his work on the Indigenous histories and communities of northeastern Florida before and after European settlment. He is involved in several projects dedicated to presenting an Indigenous centered history through digital and analog methods. 
 
 ## Dr. Denise l. Bossy
-.ve-media gh:JHCDigital/Debunking-DeBry-Speaker-Series/Screenshot%202025-12-01%20104914.png left width=70% caption=Dr. Denise Bossy
+.ve-media gh:JHCDigital/Debunking-DeBry-Speaker-Series/Screenshot%202025-12-01%20104914.png left width=70% caption=Dr. Bossy
 
 Dr. Denise Bossy is an associate professor of history at the University of North Florida. She earned her B.A. from Princeton University and her Ph.D. from Yale University. Her research centers on the early Native South and on local, public, and digital Indigenous history. She coupled that with her editorial skills to edit the award-winning book *The Yamasee Indians: From Florida to South Carolina*[^2]. Her work aims to tell a more complete story of local Native American histories and debunk the myths surronding the commemoration of Spanish colonialism. She has several working projects, dedicated to collaborating with local Native communities to create more resources to be shared in the public history sphere. 
 
