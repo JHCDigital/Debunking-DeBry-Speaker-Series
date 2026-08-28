@@ -1,22 +1,20 @@
 <p align="center">
-  <img width="575" height="442" alt="Image" src="https://github.com/user-attachments/assets/b415d791-b875-4169-9b4d-42459f2a5795" alt=" " width="40%">
+  <img width="575" height="442" alt="Image" src= alt=" " width="40%">
 </p>
 <h1 align="center">The Jacksonville History Center Presents: Debunking the DeBry Images</h1>
 
 # Introducing the Speakers
 
 ## Dr. Denise l. Bossy
-.ve-media gh:JHCDigital/Debunking-DeBry-Speaker-Series/Screenshot%202025-12-01%20104914.png left width=70% caption=Dr. Bossy
-
 Dr. Denise Bossy is an associate professor of history at the University of North Florida. She earned her B.A. from Princeton University and her Ph.D. from Yale University. Her research centers on the early Native South and on local, public, and digital Indigenous history. She coupled that with her editorial skills to edit the award-winning book *The Yamasee Indians: From Florida to South Carolina*[^2]. Her work aims to tell a more complete story of local Native American histories and debunk the myths surronding the commemoration of Spanish colonialism. She has several working projects, dedicated to collaborating with local Native communities to create more resources to be shared in the public history sphere. 
 
 ## Dr. Keith Ashley
-.ve-media gh:JHCDigital/Debunking-DeBry-Speaker-Series/Screenshot%202025-12-01%20104849.png left width=70% caption=Dr. Ashley
-
 Dr. Keith Ashley is an archeologist and professor of anthropology at the University of North Florida. He recieved his B.A. from Auburn University and Ph.D. from the University of Florida. His work involves working with local communities, academic research and student engagement. He has over 20 years of experience in the field, conducting excavations and research throughout the southeastern United States. He co-edited a book with Nancy Marie White about the local Indigenous history titled *Late Prehistoric Florida: Archaeology at the Edge of the Mississippian World*.[^1] Currently, Dr. Ashley has focused his work on the Indigenous histories and communities of northeastern Florida before and after European settlment. He is involved in several projects dedicated to presenting an Indigenous centered history through digital and analog methods. 
 
 # Theodor de Bry
-.ve-media wc:Theodor_de_Bry_self_portrait_1597.jpg  right width=90%  left width=85%
+<p align="center">
+<img width="700" height="300" alt="Image" src= "https://github.com/user-attachments/assets/b415d791-b875-4169-9b4d-42459f2a5795" /> 
+</p>
 
 [Theodor de Bry](Q708961) came from a long line of goldsmiths and took up the craft in his early career days. Through this experience, he started developing his skills in copper engraving, which was a newer and increasingly more prominent form of art that many goldsmiths shifted to during the late 16th century. After moving to Frankfurt, Germany, de Bry began to publish in 1590 and came out with his series of engravings depicting the Americas. They were titled *The Grand Voyages; America and India Orientalis Series*. In fact, the second volume is where the depictions of Indigenous people living in 16th century Florida came from. These images drew heavily on earlier accounts and illustrations by European explorers. Despite creating these books, he never stepped foot in Fort Caroline, Virginia, or anywhere near the Americas. His books became a resounding success, as he was very intentional in how he appealed to his audiences. The books were published in German to cater towards Protestant readers and in Latin to appeal to Catholic readers. The two translations were different from each other, tailoring them to each culture because he recognized the appeal and increasing interest in the Americas. The competition between these two renditions shaped how people interpreted new geographical and ethnographic information. His books were very successful and sold many copies as the books grew in popularity, establishing *The Grand Voyages* as one of the most influential visual and textual records shaping European perceptions of the New World.
 
