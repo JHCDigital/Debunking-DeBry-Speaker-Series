@@ -50,13 +50,14 @@ Dr. Bossy has also collaborated with Dr. Aaron Broadwell, a professor of linguis
  The Jacksonville History Center was honored to host such an academic and historically rich Speaker Series Program. The event was attended by 80 people. Dr. Ashley and Dr. Bossy gave wonderful insights into dismantling de Bry's engravings and centering Indigenous perspectives. Shawn Stermer, the JHC's research archivist, crafted an exhibit centering archeology using pottery sherds and publications from the archives collection. The exhibit also included a boundary map for the Timucuan Ecological and Historic Preserve from 1987. The event was provided refreshments by Nancy Gandy, the JHC's Merrill House Museum Coordinator. This program allowed attendees to explore how the European imagination shaped centuries of misunderstanding about the Indigenous peoples of Florida, as well as learn more about the collaborative efforts underway to produce accurate visual and narrative representations of 16th century Indigenous life. 
  
 # Gallery
-```
-carousel navigation
-- gh:JHCDigital/Debunking-DeBry-Speaker-Series/IMG_6932.jpeg
-- gh:JHCDigital/Debunking-DeBry-Speaker-Series/Keith_Ashley_presentation_2.jpeg
-- gh:JHCDigital/Debunking-DeBry-Speaker-Series/IMG_6930.jpeg
-- gh:JHCDigital/Debunking-DeBry-Speaker-Series/IMG_6929.jpeg
-```
+<details>
+  <summary>Click to view Gallery</summary>
+  <img src="https://github.com/user-attachments/assets/1fb2f367-1baf-4407-9f0a-d7d759b09f0c">
+  <img src="https://github.com/user-attachments/assets/d7cde98c-d460-4ea8-8774-e4ef82384723">
+    <img src="https://github.com/user-attachments/assets/bf2c71eb-8d75-4c8b-a6fa-1b9144857e12">
+  <img src="https://github.com/user-attachments/assets/2e0f62a7-0ac3-42fd-aa59-b3dc334f3bf5">
+  
+</details>
 
 
 
