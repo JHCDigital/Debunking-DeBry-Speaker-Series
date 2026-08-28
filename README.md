@@ -41,7 +41,7 @@ Dr. Bossy and Dr. Ashley have embarked in a new project to hire Seminole and Mus
 ## Indigenous Florida
 Drs. Bossy and Ashley are working on a digital humanities site that examines the deep history of the Mocamas, Guales, and Yamasees of Northeast  Florida. It includes a digital walking tour through Indigenous Fort Caroline and information about their collaboration with the Beaches Museum. For more see https://indigenousflorida.domains.unf.edu/ 
 
-.ve-iframe style=height:500px src=https://hebuano.com/ allowtransparency= frameborder=0 loading=eager
+.ve-iframe style=height:500px src=https://indigenousflorida.domains.unf.edu/ allowtransparency= frameborder=0 loading=eager
 
 ## Hebuano Language Project
 Dr. Bossy has also collaborated with Dr. Aaron Broadwell, a professor of lingusitics at the University of Florida, and his team, which included Dr. Alejandra Dubcovsky a historian of Indigenous Florida, to create an accessible site for Timucuan language translation work. There were a series of text to try and convert the Mocama to Catholicism that mostly come from the early 17th century. The texts were in both Spanish and Timucuan. Only the Spanish edition was translated because the Timucquan language was not yet reconstructed. Dr. Broadwell and his team worked to translate the entire corpus of Timucua language materials. It is the second largest corpus of Indigenous languages from the colonial period. For more see https://hebuano.com/ 
