@@ -1,4 +1,7 @@
-.ve-header "Jacksonville History Center Speaker Series: Debunking the Theodor de Bry Images" gh:JHCDigital/Debunking-DeBry-Speaker-Series/91072.jpg width=80% full sticky
+<p align="center">
+  <img width="575" height="442" alt="Image" src="https://github.com/user-attachments/assets/b415d791-b875-4169-9b4d-42459f2a5795" alt=" " width="40%">
+</p>
+<h1 align="center">The Jacksonville History Center Presents: Debunking the DeBry Images</h1>
 
 # Introducing the Speakers
 
