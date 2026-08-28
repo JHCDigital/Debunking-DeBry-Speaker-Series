@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="575" height="442" alt="Image" src= <img width="559" height="768" alt="Image" src="https://github.com/user-attachments/assets/3dea72ef-4458-400a-9e7b-fd12beed825a" alt=" " width="40%">
+  <img width="575" height="442" alt="Image" src=<img width="559" height="768" alt="Image" src="https://github.com/user-attachments/assets/3dea72ef-4458-400a-9e7b-fd12beed825a" alt=" " width="40%">
 </p>
 <h1 align="center">The Jacksonville History Center Presents: Debunking the DeBry Images</h1>
 
